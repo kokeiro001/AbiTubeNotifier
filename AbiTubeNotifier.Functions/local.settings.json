@@ -1,7 +1,10 @@
 {
-    "IsEncrypted": false,
-    "Values": {
-        "AzureWebJobsStorage": "",
-        "AzureWebJobsDashboard": ""
-    }
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "AzureWebJobsDashboard": "",
+    "DiscordWebhookId": "[YourDiscordWebhookId]",
+    "DiscordWebhookToken": "[YourDiscordWebhookToken]",
+    "YouTubeApiKey": "[YourYouTubeApiKey]"
+  }
 }
